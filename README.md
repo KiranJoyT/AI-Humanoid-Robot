@@ -85,6 +85,11 @@ Future Improvements
 * Explore ROS 2 integration.
 * Record demonstrations and document hardware connections.
 
+Project Files
+
+📁 https://drive.google.com/drive/folders/18gLzMlusCrAwzaU2dcOD-YiuyGJ_hAA8?usp=sharing
+View AI Humanoid Robot Project Folder on Google Drive
+
 Author
 
 Kiran Joy T
