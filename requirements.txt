@@ -1,0 +1,11 @@
+numpy
+opencv-python
+adafruit-circuitpython-servokit
+luma.oled
+luma.core
+Pillow
+SpeechRecognition
+groq
+pvporcupine
+pvrecorder
+mpu6050-raspberrypi
