@@ -1,4 +1,4 @@
-## AI Humanoid Robot
+# AI Humanoid Robot
 
 An AI-enabled humanoid robot project combining computer vision, voice interaction, servo-based motion control, bipedal locomotion, and sensor feedback.
 
