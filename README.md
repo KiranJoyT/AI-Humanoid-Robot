@@ -1,13 +1,13 @@
-AI Humanoid Robot
+## AI Humanoid Robot
 
 An AI-enabled humanoid robot project combining computer vision, voice interaction, servo-based motion control, bipedal locomotion, and sensor feedback.
 
-Project Overview
+## Project Overview
 
 This project explores the integration of artificial intelligence, embedded systems, electronics, and robotic motion to build an interactive humanoid robot.
 The project currently contains three Python programs for intelligent human-robot interaction, standing-pose calibration, and prototype bipedal walking.
 
-Key Features
+## Key Features
 
 1. Human-Robot Interaction
 
@@ -32,7 +32,7 @@ Key Features
 * Ultrasonic distance measurement for obstacle detection
 * Standing-pose reset between movement phases
 
-Hardware
+## Hardware
 
 * Raspberry Pi 4
 * PCA9685 servo controller
@@ -45,7 +45,7 @@ Hardware
 
 *Hardware listed here should be adjusted to match the final assembled robot.*
 
-Software and Libraries
+## Software and Libraries
 
 * Python
 * OpenCV
@@ -59,7 +59,7 @@ Software and Libraries
 * Raspberry Pi GPIO
 * MPU6050 Python library
 
-Project Structure
+## Project Structure
 
 AI-Humanoid-Robot/
 ├── README.md
@@ -70,14 +70,14 @@ AI-Humanoid-Robot/
     └── walking_controller.py
 
 
-Important Notes
+## Important Notes
 
 * The three programs are separate prototypes and are not yet presented as one integrated control system.
 * Walking and balance behaviour require further testing and calibration on the physical robot.
 * Required model files, API credentials, and hardware configuration must be set up separately.
 * Test servo movements carefully with the robot supported securely before attempting to walk.
 
-Future Improvements
+## Future Improvements
 
 * Integrate the three programs under a common robot state controller.
 * Improve gait sequencing and closed-loop balance control.
@@ -85,7 +85,7 @@ Future Improvements
 * Explore ROS 2 integration.
 * Record demonstrations and document hardware connections.
 
-Project Files
+## Project Files
 
 📁 https://drive.google.com/drive/folders/18gLzMlusCrAwzaU2dcOD-YiuyGJ_hAA8?usp=sharing
 View AI Humanoid Robot Project Folder on Google Drive
